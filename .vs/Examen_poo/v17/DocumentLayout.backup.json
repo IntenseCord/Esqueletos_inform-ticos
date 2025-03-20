@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|c:\\users\\tom\u00E1s\\source\\repos\\examen_poo\\examen_poo\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|solutionrelative:examen_poo\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|c:\\users\\tom\u00E1s\\source\\repos\\examen_poo\\examen_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|solutionrelative:examen_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|c:\\users\\tom\u00E1s\\source\\repos\\examen_poo\\examen_poo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|solutionrelative:examen_poo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|c:\\users\\tom\u00E1s\\source\\repos\\examen_poo\\examen_poo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|solutionrelative:examen_poo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|c:\\users\\tom\u00E1s\\source\\repos\\examen_poo\\examen_poo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|solutionrelative:examen_poo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|c:\\users\\tom\u00E1s\\source\\repos\\examen_poo\\examen_poo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB21C5EC-5A4A-4F2F-807E-8D17946BABD1}|Examen_poo\\Examen_poo.csproj|solutionrelative:examen_poo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Program.cs",
+              "RelativeDocumentMoniker": "Examen_poo\\Program.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Program.cs",
+              "RelativeToolTip": "Examen_poo\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAswJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:09:06.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Empleado.cs",
+              "RelativeDocumentMoniker": "Examen_poo\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Empleado.cs",
+              "RelativeToolTip": "Examen_poo\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:20:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Producto.cs",
+              "RelativeDocumentMoniker": "Examen_poo\\Producto.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Producto.cs",
+              "RelativeToolTip": "Examen_poo\\Producto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:19:23.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Examen_poo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Cliente.cs",
+              "RelativeToolTip": "Examen_poo\\Cliente.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv0oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:17:31.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\gerente.cs",
+              "RelativeDocumentMoniker": "Examen_poo\\gerente.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\gerente.cs",
+              "RelativeToolTip": "Examen_poo\\gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:13:29.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Persona.cs",
+              "RelativeDocumentMoniker": "Examen_poo\\Persona.cs",
+              "ToolTip": "C:\\Users\\Tom\u00E1s\\source\\repos\\Examen_poo\\Examen_poo\\Persona.cs",
+              "RelativeToolTip": "Examen_poo\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:12:22.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
